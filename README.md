@@ -1,6 +1,6 @@
-# uz-front
+# uz-web-app
 
-> A Vue.js project
+> A Vue.js project for uz
 
 ## Build Setup
 
