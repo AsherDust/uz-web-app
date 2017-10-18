@@ -1,7 +1,7 @@
 {
-  "name": "uz-front",
+  "name": "uz-web-app",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js project for uz",
   "author": "Noash",
   "private": true,
   "scripts": {
